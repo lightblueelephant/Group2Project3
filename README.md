@@ -52,7 +52,7 @@ pip install pathlib
 
 ## Usage
 
-To run the program open your code editor and navigate to the folder containing the file ```parking_citations.ipynb```.
+To run the program open your code editor and navigate to the folder containing the file ```Group2Project3_ParkingAnalysis```.
 
 Load the program and run the cells in sequence from top to bottom.
 
@@ -68,6 +68,7 @@ Dan Poreda
 danporeda@yahoo.com
 
 Austin VanCamp
+Austin.vancamp@outlook.com
 
 Meghan Colip
 macolip91@gmail.com
